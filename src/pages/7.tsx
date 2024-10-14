@@ -484,7 +484,7 @@ document.body.appendChild(script);
         
         </div>
 
-<p>G2 Licensed Agent : Jessica Johanna Rodriguez</p>
+<p>G2 Licensed Agent :  Gregory K. Teipelz</p>
         {/* <p>{zipCode} </p> */}
       </div>
       {/* <ToastContainer
